@@ -1854,6 +1854,54 @@
         }
     },
     "21":{
+        "21.0.2.0.2.13":{
+            "alpine-linux":{
+                "x64":{
+                    "Standard":{
+                        "content_type":"application/zip",
+                        "sha256":"71a391987fdd569385c0afe1aaf16dbd48d127e14306793ef9ac0e0986b9632c",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_alpine-linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_alpine-linux.tar.gz"
+                    }
+                }
+            },
+            "linux":{
+                "aarch64":{
+                    "Standard":{
+                        "content_type":"application/zip",
+                        "sha256":"307321a399c206f8d56e0ce5c65921f9448ec9882dfb81ffc5e841b8fb5f8ed8",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_aarch64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_aarch64_linux.tar.gz"
+                    }
+                },
+                "x64":{
+                    "Standard":{
+                        "content_type":"application/zip",
+                        "sha256":"24198f0d436bb913b152181e07205647b05da01c196f5c10a96e9a998b10381a",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_linux.tar.gz"
+                    }
+                },
+                "riscv":{
+                    "Standard":{
+                        "content_type":"application/zip",
+                        "sha256":"970a49103b8971952e46c81be844bc3776caca04da8456337f12e3a7d2a18011",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_riscv64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_riscv64_linux.tar.gz"
+                    }
+                }
+            },
+            "windows":{
+                "x64":{
+                    "Standard":{
+                        "content_type":"application/zip",
+                        "sha256":"b77de54be5ef1595fc568f6f18fbd4b61d64d99a0c9c5ef78a84018b4f82032b",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_windows.zip",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_windows.zip"
+                    }
+                }
+            }
+        },
         "21.0.1.0.1.12":{
             "alpine-linux":{
                 "x64":{
@@ -1899,9 +1947,9 @@
                 "x64":{
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"b9cea58bffe555484b831ff6d7cdb277c07e86a76d32b373ec35fa21ecb5fdc9",
-                        "name":"Alibaba_Dragonwell_Standard_21.0.1.0.1.12_x64_alpine-linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.1.0.1%2B12_jdk-21.0.1-ga/Alibaba_Dragonwell_Standard_21.0.1.0.1.12_x64_alpine-linux.tar.gz"
+                        "sha256":"71a391987fdd569385c0afe1aaf16dbd48d127e14306793ef9ac0e0986b9632c",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_alpine-linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_alpine-linux.tar.gz"
                     }
                 }
             },
@@ -1909,17 +1957,25 @@
                 "aarch64":{
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"d36cef494ccc1939c6b5da04133cfdbe0b03956fd04147aef46014536bc5a37b",
-                        "name":"Alibaba_Dragonwell_Standard_21.0.1.0.1.12_aarch64_linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.1.0.1%2B12_jdk-21.0.1-ga/Alibaba_Dragonwell_Standard_21.0.1.0.1.12_aarch64_linux.tar.gz"
+                        "sha256":"307321a399c206f8d56e0ce5c65921f9448ec9882dfb81ffc5e841b8fb5f8ed8",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_aarch64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_aarch64_linux.tar.gz"
                     }
                 },
                 "x64":{
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"dfb8d325a98b8f577d72fd639cc54feee325eec8ebba497868184c8405a1cf41",
-                        "name":"Alibaba_Dragonwell_Standard_21.0.1.0.1.12_x64_linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.1.0.1%2B12_jdk-21.0.1-ga/Alibaba_Dragonwell_Standard_21.0.1.0.1.12_x64_linux.tar.gz"
+                        "sha256":"24198f0d436bb913b152181e07205647b05da01c196f5c10a96e9a998b10381a",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_linux.tar.gz"
+                    }
+                },
+                "riscv":{
+                    "Standard":{
+                        "content_type":"application/zip",
+                        "sha256":"970a49103b8971952e46c81be844bc3776caca04da8456337f12e3a7d2a18011",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_riscv64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_riscv64_linux.tar.gz"
                     }
                 }
             },
@@ -1927,9 +1983,9 @@
                 "x64":{
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"b8ab99ed9060341f75edb8cc238830fbfd608e51536e43f34bd45c3e968ebab5",
-                        "name":"Alibaba_Dragonwell_Standard_21.0.1.0.1.12_x64_windows.zip",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.1.0.1%2B12_jdk-21.0.1-ga/Alibaba_Dragonwell_Standard_21.0.1.0.1.12_x64_windows.zip"
+                        "sha256":"b77de54be5ef1595fc568f6f18fbd4b61d64d99a0c9c5ef78a84018b4f82032b",
+                        "name":"Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_windows.zip",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-standard-21.0.2.0.2%2B13_jdk-21.0.2-ga/Alibaba_Dragonwell_Standard_21.0.2.0.2.13_x64_windows.zip"
                     }
                 }
             }
