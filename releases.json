@@ -1501,6 +1501,12 @@
         "8.19.20":{
             "linux":{
                 "aarch64":{
+                    "Extended":{
+                        "content_type":"application/zip",
+                        "sha256":"317e6f18541c03cca96edd8c49d98450b11d2f36318495544a25e4fe0daa187b",
+                        "name":"Alibaba_Dragonwell_Extended_8.19.20_aarch64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_aarch64_linux.tar.gz"
+                    },
                     "Standard":{
                         "content_type":"application/zip",
                         "sha256":"e804ff19d8570eb6a317b18e72d02aaede0cd4db5444eb4e3750c935afe88021",
@@ -1509,6 +1515,12 @@
                     }
                 },
                 "x64":{
+                    "Extended":{
+                        "content_type":"application/zip",
+                        "sha256":"e61ba75e5eb7922f678670ef32fe95dd8472aaa6873b8a6411f3a655c5eda4d8",
+                        "name":"Alibaba_Dragonwell_Extended_8.19.20_x64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_x64_linux.tar.gz"
+                    },
                     "Standard":{
                         "content_type":"application/zip",
                         "sha256":"adce5313f61927f66c52404d76304cee1f5f994bf31a0755ba303ab359add183",
@@ -1519,6 +1531,12 @@
             },
             "windows":{
                 "x64":{
+                    "Extended":{
+                        "content_type":"application/zip",
+                        "sha256":"6768383eed34332a67b1c796d1b0e8a57b95e8a234586c9a88d9466c54150162",
+                        "name":"Alibaba_Dragonwell_Extended_8.19.20_x64_windows.zip",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_x64_windows.zip"
+                    },
                     "Standard":{
                         "content_type":"application/zip",
                         "sha256":"aa96d531316b89585e161d900c4c6a5c326ad6ae0313caa0c90206333420d243",
@@ -2113,29 +2131,29 @@
                 "aarch64":{
                     "Extended":{
                         "content_type":"application/zip",
-                        "sha256":"a9e2a5c324c1b961ec7278d6dd137ac8f41441e02ef1a81a5707d152f736198e",
-                        "name":"Alibaba_Dragonwell_Extended_8.18.19_aarch64_linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Extended_8.18.19_aarch64_linux.tar.gz"
+                        "sha256":"317e6f18541c03cca96edd8c49d98450b11d2f36318495544a25e4fe0daa187b",
+                        "name":"Alibaba_Dragonwell_Extended_8.19.20_aarch64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_aarch64_linux.tar.gz"
                     },
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"51f348cebc025f071c27c668d1c1d11589521cf24a59873bc87a33a44ebfb711",
-                        "name":"Alibaba_Dragonwell_Standard_8.18.19_aarch64_linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Standard_8.18.19_aarch64_linux.tar.gz"
+                        "sha256":"e804ff19d8570eb6a317b18e72d02aaede0cd4db5444eb4e3750c935afe88021",
+                        "name":"Alibaba_Dragonwell_Standard_8.19.20_aarch64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Standard_8.19.20_aarch64_linux.tar.gz"
                     }
                 },
                 "x64":{
                     "Extended":{
                         "content_type":"application/zip",
-                        "sha256":"c74c1a450ca7c062a615b42aca87587bdb6be6d10d7cee069f2780eb711df035",
-                        "name":"Alibaba_Dragonwell_Extended_8.18.19_x64_linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Extended_8.18.19_x64_linux.tar.gz"
+                        "sha256":"e61ba75e5eb7922f678670ef32fe95dd8472aaa6873b8a6411f3a655c5eda4d8",
+                        "name":"Alibaba_Dragonwell_Extended_8.19.20_x64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_x64_linux.tar.gz"
                     },
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"55a217385a67d40c31951bed43216412489be62aea57882541ec02ba45629451",
-                        "name":"Alibaba_Dragonwell_Standard_8.18.19_x64_linux.tar.gz",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Standard_8.18.19_x64_linux.tar.gz"
+                        "sha256":"adce5313f61927f66c52404d76304cee1f5f994bf31a0755ba303ab359add183",
+                        "name":"Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz"
                     }
                 }
             },
@@ -2143,15 +2161,15 @@
                 "x64":{
                     "Extended":{
                         "content_type":"application/zip",
-                        "sha256":"004721e1f93561daf6576198eb5a9d7f7e83ad3497ed8abd933350610fe6591f",
-                        "name":"Alibaba_Dragonwell_Extended_8.18.19_x64_windows.zip",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Extended_8.18.19_x64_windows.zip"
+                        "sha256":"6768383eed34332a67b1c796d1b0e8a57b95e8a234586c9a88d9466c54150162",
+                        "name":"Alibaba_Dragonwell_Extended_8.19.20_x64_windows.zip",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_x64_windows.zip"
                     },
                     "Standard":{
                         "content_type":"application/zip",
-                        "sha256":"c52fff27609f7165a03b4f34c26e41b591b7fbfc3b061b5073a0e6c0df592661",
-                        "name":"Alibaba_Dragonwell_Standard_8.18.19_x64_windows.zip",
-                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Standard_8.18.19_x64_windows.zip"
+                        "sha256":"aa96d531316b89585e161d900c4c6a5c326ad6ae0313caa0c90206333420d243",
+                        "name":"Alibaba_Dragonwell_Standard_8.19.20_x64_windows.zip",
+                        "download_url":"https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Standard_8.19.20_x64_windows.zip"
                     }
                 }
             }
