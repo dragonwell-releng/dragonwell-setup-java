@@ -1779,6 +1779,12 @@
     "8.24.23" : {
       "linux" : {
         "aarch64" : {
+          "Extended" : {
+            "sha256" : "44e24856b656cdb9d1b62e80442f89be4849efec4faccbd9bb4287340f3c30ef",
+            "name" : "Alibaba_Dragonwell_Extended_8.24.23_aarch64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.24.23_jdk8u442-ga/Alibaba_Dragonwell_Extended_8.24.23_aarch64_linux.tar.gz"
+          },
           "Standard" : {
             "sha256" : "5612a1b7611b3f6a53173b52d25e1cd67f98ca40210544f531946e234e44f280",
             "name" : "Alibaba_Dragonwell_Standard_8.24.23_aarch64_linux.tar.gz",
@@ -1787,6 +1793,12 @@
           }
         },
         "x64" : {
+          "Extended" : {
+            "sha256" : "6ada0a0741900400ab643a3f417e13b10ffb8700b4b9560e67706786f5355d25",
+            "name" : "Alibaba_Dragonwell_Extended_8.24.23_x64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.24.23_jdk8u442-ga/Alibaba_Dragonwell_Extended_8.24.23_x64_linux.tar.gz"
+          },
           "Standard" : {
             "sha256" : "f9aa692a88cf8b52955a62fe2123b763e83140dedba1abc132dc5ec84c465db7",
             "name" : "Alibaba_Dragonwell_Standard_8.24.23_x64_linux.tar.gz",
@@ -1797,6 +1809,12 @@
       },
       "windows" : {
         "x64" : {
+          "Extended" : {
+            "sha256" : "aba12a2a94cf073bfff0499717cdda331270e5dd3118d999b27d69bf4dbd2d68",
+            "name" : "Alibaba_Dragonwell_Extended_8.24.23_x64_windows.zip",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.24.23_jdk8u442-ga/Alibaba_Dragonwell_Extended_8.24.23_x64_windows.zip"
+          },
           "Standard" : {
             "sha256" : "eb07a413291008e772b624db9d09b4fa53469000e154bc2feaa423a0251caff4",
             "name" : "Alibaba_Dragonwell_Standard_8.24.23_x64_windows.zip",
