@@ -1786,7 +1786,7 @@
       "alpine-linux" : {
         "x64" : {
           "Standard" : {
-            "sha256" : "4620312ff9fa2772aed71315280af7c4c65cfa91e4a77bd47f6471ed279ed8a7",
+            "sha256" : "",
             "name" : "Alibaba_Dragonwell_17.0.3.0.3+7_x64_alpine-linux.tar.gz",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-17.0.3.0.3%2B7_jdk-17.0.3-ga/Alibaba_Dragonwell_17.0.3.0.3%2B7_x64_alpine-linux.tar.gz"
