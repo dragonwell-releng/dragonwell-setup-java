@@ -2434,7 +2434,7 @@
             "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Extended_8.19.20_x64_windows.zip"
           },
           "Standard" : {
-            "sha256" : "aa96d531316b89585e161d900c4c6a5c326ad6ae0313caa0c90206333420d243",
+            "sha256" : "",
             "name" : "Alibaba_Dragonwell_Standard_8.19.20_x64_windows.zip",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Standard_8.19.20_x64_windows.zip"
