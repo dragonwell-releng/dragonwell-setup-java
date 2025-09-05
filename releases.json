@@ -1542,6 +1542,46 @@
         }
       }
     },
+    "17.0.16.0.17.8" : {
+      "alpine-linux" : {
+        "x64" : {
+          "Standard" : {
+            "sha256" : "7015c78868b29b735e689924c25e38987132d63f62c2327f081574d94a2c1f00",
+            "name" : "Alibaba_Dragonwell_Standard_17.0.16.0.17.8_x64_alpine-linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-standard-17.0.16.0.17%2B8_jdk-17.0.16-ga/Alibaba_Dragonwell_Standard_17.0.16.0.17.8_x64_alpine-linux.tar.gz"
+          }
+        }
+      },
+      "linux" : {
+        "aarch64" : {
+          "Standard" : {
+            "sha256" : "d138c7a20146e3fad20eb81b3b0c7db0135991f55791ffa0d276554346398ea7",
+            "name" : "Alibaba_Dragonwell_Standard_17.0.16.0.17.8_aarch64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-standard-17.0.16.0.17%2B8_jdk-17.0.16-ga/Alibaba_Dragonwell_Standard_17.0.16.0.17.8_aarch64_linux.tar.gz"
+          }
+        },
+        "x64" : {
+          "Standard" : {
+            "sha256" : "bc53793589104feb2d4cd9aa06213abae8d2f206f51449ffe04280a0d74124e6",
+            "name" : "Alibaba_Dragonwell_Standard_17.0.16.0.17.8_x64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-standard-17.0.16.0.17%2B8_jdk-17.0.16-ga/Alibaba_Dragonwell_Standard_17.0.16.0.17.8_x64_linux.tar.gz"
+          }
+        }
+      },
+      "windows" : {
+        "x64" : {
+          "Standard" : {
+            "sha256" : "fc9a02030fa5fcb869d2b978ec091fb6af1d8bfb42169112c13a40da4dbc769c",
+            "name" : "Alibaba_Dragonwell_Standard_17.0.16.0.17.8_x64_windows.zip",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-standard-17.0.16.0.17%2B8_jdk-17.0.16-ga/Alibaba_Dragonwell_Standard_17.0.16.0.17.8_x64_windows.zip"
+          }
+        }
+      }
+    },
     "17.0.6.0.6.9" : {
       "alpine-linux" : {
         "x64" : {
@@ -1904,6 +1944,36 @@
     }
   },
   "8" : {
+    "8.26.25" : {
+      "linux" : {
+        "aarch64" : {
+          "Standard" : {
+            "sha256" : "37122741953cecd9d0a8ec708b563cb98aa7cb69097af28ac85a852244c1dd1f",
+            "name" : "Alibaba_Dragonwell_Standard_8.26.25_aarch64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.26.25_jdk8u462-ga/Alibaba_Dragonwell_Standard_8.26.25_aarch64_linux.tar.gz"
+          }
+        },
+        "x64" : {
+          "Standard" : {
+            "sha256" : "9a08d7e486d4775964cf9795342dd70cdbc5829fe16d8386cc8bff7c7922f6ac",
+            "name" : "Alibaba_Dragonwell_Standard_8.26.25_x64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.26.25_jdk8u462-ga/Alibaba_Dragonwell_Standard_8.26.25_x64_linux.tar.gz"
+          }
+        }
+      },
+      "windows" : {
+        "x64" : {
+          "Standard" : {
+            "sha256" : "f0c78c4bd96fb666cd5b0b9ea594eb4e921c76ab9615f4d98d171299444619b0",
+            "name" : "Alibaba_Dragonwell_Standard_8.26.25_x64_windows.zip",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.26.25_jdk8u462-ga/Alibaba_Dragonwell_Standard_8.26.25_x64_windows.zip"
+          }
+        }
+      }
+    },
     "8.24.23" : {
       "linux" : {
         "aarch64" : {
