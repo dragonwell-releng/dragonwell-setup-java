@@ -1080,7 +1080,7 @@
       "alpine-linux" : {
         "x64" : {
           "Extended" : {
-            "sha256" : "807603762a2936275659fddd52f1d8c1d52ab93d3deb9c6da367d1e2d5c8cd3b",
+            "sha256" : "ad12a11c09c9e5bb985106d40516b0fd5768cbe49a37027870d63097bbaefb52",
             "name" : "Alibaba_Dragonwell_Extended_11.0.32.29.9_x64_alpine-linux.tar.gz",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.32.29_jdk-11.0.32-ga/Alibaba_Dragonwell_Extended_11.0.32.29.9_x64_alpine-linux.tar.gz"
@@ -1090,7 +1090,7 @@
       "linux" : {
         "aarch64" : {
           "Extended" : {
-            "sha256" : "c81c16e34c7ba8030c4a7c18559ac490191960e9a010d72b5b61cf159210ca94",
+            "sha256" : "69619469cc78e675f2e6492e240a602ab2050b4da91b147aafdfbd5469134c3c",
             "name" : "Alibaba_Dragonwell_Extended_11.0.32.29.9_aarch64_linux.tar.gz",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.32.29_jdk-11.0.32-ga/Alibaba_Dragonwell_Extended_11.0.32.29.9_aarch64_linux.tar.gz"
@@ -1098,17 +1098,25 @@
         },
         "x64" : {
           "Extended" : {
-            "sha256" : "a2b9cea8d446b70b1a539e10c9131a87b5a7749a0ca2f77debd895c36990871b",
+            "sha256" : "5aaaf8c09293c8a66d3ad5d8946a3abd7fd345f9f829c69b61eeb739687c7895",
             "name" : "Alibaba_Dragonwell_Extended_11.0.32.29.9_x64_linux.tar.gz",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.32.29_jdk-11.0.32-ga/Alibaba_Dragonwell_Extended_11.0.32.29.9_x64_linux.tar.gz"
+          }
+        },
+        "riscv" : {
+          "Extended" : {
+            "sha256" : "a30b8ad326272489ab7576363ed7a2400c6398d7225c3c21e029f88da5b99087",
+            "name" : "Alibaba_Dragonwell_Extended_11.0.32.29.9_riscv64_linux.tar.gz",
+            "content_type" : "application/zip",
+            "download_url" : "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.32.29_jdk-11.0.32-ga/Alibaba_Dragonwell_Extended_11.0.32.29.9_riscv64_linux.tar.gz"
           }
         }
       },
       "windows" : {
         "x64" : {
           "Extended" : {
-            "sha256" : "bae09be5fa2ed00cddb91ceaddbd037bee66892f865da82a50944b5f95234455",
+            "sha256" : "ac8e04f8dd998f0b97884117d5f4f9c2499c086ecd2fabbfe41a59166f4c03c8",
             "name" : "Alibaba_Dragonwell_Extended_11.0.32.29.9_x64_windows.zip",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.32.29_jdk-11.0.32-ga/Alibaba_Dragonwell_Extended_11.0.32.29.9_x64_windows.zip"
