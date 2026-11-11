@@ -1144,7 +1144,7 @@
       "linux" : {
         "aarch64" : {
           "Extended" : {
-            "sha256" : "",
+            "sha256" : "d56122ebfee4ded7066955675f0ac2474ef6355547e9de838cd18bf7c7d8ac57",
             "name" : "Alibaba_Dragonwell_Extended_11.0.17.13.8_aarch64_linux.tar.gz",
             "content_type" : "application/zip",
             "download_url" : "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.17.13_jdk-11.0.17-ga/Alibaba_Dragonwell_Extended_11.0.17.13.8_aarch64_linux.tar.gz"
